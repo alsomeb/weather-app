@@ -2,6 +2,17 @@ body {
     margin-top: 5%;
 }
 
+.formen {
+    background-color: aquamarine;
+    padding: 5%;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
 .submitButton {
+    display: flex;
+    justify-content: center;
     margin-top: 5%;
 }
